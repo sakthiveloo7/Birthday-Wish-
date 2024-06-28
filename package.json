@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build-css": "lessc cake.less cake.css"
+  },
+  "devDependencies": {
+    "less": "^4.1.3"
+  
+}
+
+}
